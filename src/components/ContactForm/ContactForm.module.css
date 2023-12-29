@@ -1,0 +1,20 @@
+.formData {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    max-width: 300px;
+    
+}
+
+.labelTitleName {
+    padding-right: 25px;
+}
+
+.labelTitleNumber {
+    padding-right: 10px;
+}
+
+.btn {
+    max-width: 100px;
+    margin: 0 auto;
+}
